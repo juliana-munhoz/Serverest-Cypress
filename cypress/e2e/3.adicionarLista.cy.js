@@ -30,6 +30,9 @@ describe('Lista de produtos', () => {
         
         cy.contains('.card-body','Samsung 60 polegadas')
             .should('be.visible')
-                   
+        
+        //cy.contains('.card-body','Samsung 60 polegadas')
+        //    .should('be.visible')
+                    
     })
 })
