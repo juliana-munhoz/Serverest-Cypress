@@ -1,0 +1,20 @@
+{
+    "user_maria":{
+        "name": "Maria",
+        "email": "maria97@email.com",
+        "password": "111"
+    },
+
+    "user_joao":{
+        "name": "João",
+        "email": "joao95@email.com",
+        "password": "111"
+    },
+
+    "user_lia_admin":{
+        "name": "Lia",
+        "email": "lia95@email.com",
+        "password": "111"
+    }
+
+}
