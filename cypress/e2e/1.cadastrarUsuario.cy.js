@@ -47,6 +47,7 @@ describe ('Cadastrar Login', () => {
         cy.submitUserRegistration(users.user_joao.name, ' ', users.user_joao.password)    
         
         cy.contains('Email é obrigatório').should('be.visible')
+        //cy.contains('Email é obrigatório').should('be.visible')
 
     })
 })
